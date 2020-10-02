@@ -28,4 +28,4 @@ C:\visual code>python -u "c:\visual code\speech2.py"
 [Search Python: search youtube]
 speak now
 search your query
-Factorial program( The factorial program will open in the website(www.hostelary.com)
+Factorial program( The factorial program will open in the website(www.hostelary.blogspot.com)
